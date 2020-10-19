@@ -3,11 +3,13 @@
 <div>
 <img alt="BrainDead's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=albertopoljak&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img alt="BrainDead's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertopoljak&layout=compact&theme=radical&hide_border=true&card_width=250"/>
+<hr>
 </div>
 
 <hr>
 
 <div>
+<hr>
 Someone someone from somewhere that likes to code.
 
 - 🔭 I’m currently working on random programming stuff.
