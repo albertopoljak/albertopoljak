@@ -3,7 +3,7 @@
 <img alt="BrainDead's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=albertopoljak&count_private=true&show_icons=true&theme=radical"/>
 <img alt="BrainDead's github stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertopoljak&layout=compact&theme=radical"/>
 
-<br></br>
+<hr>
 
 Someone someone from somewhere that likes to code.
 
