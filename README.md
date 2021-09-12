@@ -42,5 +42,72 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83115%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 456 Contributions in the Year 2021
+ > 
+> 📦 148.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    97 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+🌆 Daytime    220 commits    ████████░░░░░░░░░░░░░░░░░   35.48% 
+🌃 Evening    205 commits    ████████░░░░░░░░░░░░░░░░░   33.06% 
+🌙 Night      98 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
+Tuesday      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Wednesday    103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
+Friday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Saturday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Sunday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   25 repos            ███████████████████░░░░░░   78.12% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+
+```
+
+
+
+ Last Updated on 12/09/2021
+<!--END_SECTION:waka-->
 </details>
