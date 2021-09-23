@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/domagojpa/oib-validation/pull/17) in [domagojpa/oib-validation](https://github.com/domagojpa/oib-validation)
-2. 🎉 Merged PR [#2](https://github.com/albertopoljak/orindance.party/pull/2) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-3. 🎉 Merged PR [#1](https://github.com/albertopoljak/orindance.party/pull/1) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-4. ❗️ Closed issue [#22](https://github.com/albertopoljak/Licensy/issues/22) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-5. 🗣 Commented on [#22](https://github.com/albertopoljak/Licensy/issues/22) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+1. 🗣 Commented on [#3795](https://github.com/discord/discord-api-docs/issues/3795) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 💪 Opened PR [#17](https://github.com/domagojpa/oib-validation/pull/17) in [domagojpa/oib-validation](https://github.com/domagojpa/oib-validation)
+3. 🎉 Merged PR [#2](https://github.com/albertopoljak/orindance.party/pull/2) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+4. 🎉 Merged PR [#1](https://github.com/albertopoljak/orindance.party/pull/1) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+5. ❗️ Closed issue [#22](https://github.com/albertopoljak/Licensy/issues/22) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
   <!--END_SECTION:activity-->
 </details>
 
