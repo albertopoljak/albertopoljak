@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#148](https://github.com/Tortoise-Community/Tortoise-BOT/issues/148) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-2. ❗️ Opened issue [#147](https://github.com/Tortoise-Community/Tortoise-BOT/issues/147) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-3. 🗣 Commented on [#52](https://github.com/HuyaneMatsu/hata/issues/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-4. 💪 Opened PR [#52](https://github.com/HuyaneMatsu/hata/pull/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-5. 🗣 Commented on [#3795](https://github.com/discord/discord-api-docs/issues/3795) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 💪 Opened PR [#149](https://github.com/Tortoise-Community/Tortoise-BOT/pull/149) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+2. ❗️ Opened issue [#148](https://github.com/Tortoise-Community/Tortoise-BOT/issues/148) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+3. ❗️ Opened issue [#147](https://github.com/Tortoise-Community/Tortoise-BOT/issues/147) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+4. 🗣 Commented on [#52](https://github.com/HuyaneMatsu/hata/issues/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+5. 💪 Opened PR [#52](https://github.com/HuyaneMatsu/hata/pull/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
   <!--END_SECTION:activity-->
 </details>
 
