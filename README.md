@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/HuyaneMatsu/hata/issues/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-2. 💪 Opened PR [#52](https://github.com/HuyaneMatsu/hata/pull/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-3. 🗣 Commented on [#3795](https://github.com/discord/discord-api-docs/issues/3795) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 💪 Opened PR [#17](https://github.com/domagojpa/oib-validation/pull/17) in [domagojpa/oib-validation](https://github.com/domagojpa/oib-validation)
-5. 🎉 Merged PR [#2](https://github.com/albertopoljak/orindance.party/pull/2) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+1. ❗️ Opened issue [#147](https://github.com/Tortoise-Community/Tortoise-BOT/issues/147) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+2. 🗣 Commented on [#52](https://github.com/HuyaneMatsu/hata/issues/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+3. 💪 Opened PR [#52](https://github.com/HuyaneMatsu/hata/pull/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+4. 🗣 Commented on [#3795](https://github.com/discord/discord-api-docs/issues/3795) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 💪 Opened PR [#17](https://github.com/domagojpa/oib-validation/pull/17) in [domagojpa/oib-validation](https://github.com/domagojpa/oib-validation)
   <!--END_SECTION:activity-->
 </details>
 
