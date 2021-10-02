@@ -23,10 +23,10 @@ Someone from somewhere that likes to code.
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#150](https://github.com/Tortoise-Community/Tortoise-BOT/issues/150) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-2. 💪 Opened PR [#149](https://github.com/Tortoise-Community/Tortoise-BOT/pull/149) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-3. ❗️ Opened issue [#148](https://github.com/Tortoise-Community/Tortoise-BOT/issues/148) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-4. ❗️ Opened issue [#147](https://github.com/Tortoise-Community/Tortoise-BOT/issues/147) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-5. 🗣 Commented on [#52](https://github.com/HuyaneMatsu/hata/issues/52) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+2. 🗣 Commented on [#150](https://github.com/Tortoise-Community/Tortoise-BOT/issues/150) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+3. 💪 Opened PR [#149](https://github.com/Tortoise-Community/Tortoise-BOT/pull/149) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+4. ❗️ Opened issue [#148](https://github.com/Tortoise-Community/Tortoise-BOT/issues/148) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+5. ❗️ Opened issue [#147](https://github.com/Tortoise-Community/Tortoise-BOT/issues/147) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
   <!--END_SECTION:activity-->
 </details>
 
