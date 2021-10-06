@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/albertopoljak/orindance.party/issues/3) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-2. 🗣 Commented on [#151](https://github.com/Tortoise-Community/Tortoise-BOT/issues/151) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-3. 🎉 Merged PR [#151](https://github.com/Tortoise-Community/Tortoise-BOT/pull/151) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-4. 🗣 Commented on [#151](https://github.com/Tortoise-Community/Tortoise-BOT/issues/151) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-5. 🗣 Commented on [#150](https://github.com/Tortoise-Community/Tortoise-BOT/issues/150) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+1. 🗣 Commented on [#4](https://github.com/albertopoljak/orindance.party/issues/4) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+2. 🎉 Merged PR [#4](https://github.com/albertopoljak/orindance.party/pull/4) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+3. 🗣 Commented on [#4](https://github.com/albertopoljak/orindance.party/issues/4) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+4. 🗣 Commented on [#3](https://github.com/albertopoljak/orindance.party/issues/3) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+5. ❗️ Opened issue [#3](https://github.com/albertopoljak/orindance.party/issues/3) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
   <!--END_SECTION:activity-->
 </details>
 
