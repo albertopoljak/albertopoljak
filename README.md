@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/Tortoise-Community/Tortoise-BOT/issues/152) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+1. ❗️ Opened issue [#158](https://github.com/Tortoise-Community/Tortoise-BOT/issues/158) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
 2. 🗣 Commented on [#152](https://github.com/Tortoise-Community/Tortoise-BOT/issues/152) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-3. 🎉 Merged PR [#156](https://github.com/Tortoise-Community/Tortoise-BOT/pull/156) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-4. 💪 Opened PR [#156](https://github.com/Tortoise-Community/Tortoise-BOT/pull/156) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-5. 🎉 Merged PR [#155](https://github.com/Tortoise-Community/Tortoise-BOT/pull/155) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+3. 🗣 Commented on [#152](https://github.com/Tortoise-Community/Tortoise-BOT/issues/152) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+4. 🎉 Merged PR [#156](https://github.com/Tortoise-Community/Tortoise-BOT/pull/156) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+5. 💪 Opened PR [#156](https://github.com/Tortoise-Community/Tortoise-BOT/pull/156) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
   <!--END_SECTION:activity-->
 </details>
 
