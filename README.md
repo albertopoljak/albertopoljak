@@ -21,11 +21,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/Tortoise-Community/Tortoise-BOT/issues/159) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-2. 💪 Opened PR [#78331](https://github.com/odoo/odoo/pull/78331) in [odoo/odoo](https://github.com/odoo/odoo)
-3. ❗️ Opened issue [#78315](https://github.com/odoo/odoo/issues/78315) in [odoo/odoo](https://github.com/odoo/odoo)
-4. ❗️ Opened issue [#158](https://github.com/Tortoise-Community/Tortoise-BOT/issues/158) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-5. 🗣 Commented on [#152](https://github.com/Tortoise-Community/Tortoise-BOT/issues/152) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+1. 🗣 Commented on [#5](https://github.com/albertopoljak/orindance.party/issues/5) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+2. 🎉 Merged PR [#5](https://github.com/albertopoljak/orindance.party/pull/5) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+3. 🗣 Commented on [#159](https://github.com/Tortoise-Community/Tortoise-BOT/issues/159) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+4. 💪 Opened PR [#78331](https://github.com/odoo/odoo/pull/78331) in [odoo/odoo](https://github.com/odoo/odoo)
+5. ❗️ Opened issue [#78315](https://github.com/odoo/odoo/issues/78315) in [odoo/odoo](https://github.com/odoo/odoo)
   <!--END_SECTION:activity-->
 </details>
 
