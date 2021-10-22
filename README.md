@@ -21,11 +21,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/albertopoljak/orindance.party/issues/7) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-2. 🎉 Merged PR [#6](https://github.com/albertopoljak/orindance.party/pull/6) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-3. 🗣 Commented on [#6](https://github.com/albertopoljak/orindance.party/issues/6) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-4. 🗣 Commented on [#7](https://github.com/albertopoljak/orindance.party/issues/7) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-5. 🗣 Commented on [#5](https://github.com/albertopoljak/orindance.party/issues/5) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+1. 🎉 Merged PR [#8](https://github.com/albertopoljak/orindance.party/pull/8) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+2. 🗣 Commented on [#7](https://github.com/albertopoljak/orindance.party/issues/7) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+3. 🎉 Merged PR [#6](https://github.com/albertopoljak/orindance.party/pull/6) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+4. 🗣 Commented on [#6](https://github.com/albertopoljak/orindance.party/issues/6) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+5. 🗣 Commented on [#7](https://github.com/albertopoljak/orindance.party/issues/7) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
   <!--END_SECTION:activity-->
 </details>
 
