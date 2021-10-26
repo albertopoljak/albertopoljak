@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/albertopoljak/orindance.party/pull/9) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-2. ❗️ Closed issue [#2](https://github.com/albertopoljak/CEtrainer-decrypter/issues/2) in [albertopoljak/CEtrainer-decrypter](https://github.com/albertopoljak/CEtrainer-decrypter)
-3. 🎉 Merged PR [#8](https://github.com/albertopoljak/orindance.party/pull/8) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-4. 🗣 Commented on [#7](https://github.com/albertopoljak/orindance.party/issues/7) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-5. 🎉 Merged PR [#6](https://github.com/albertopoljak/orindance.party/pull/6) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+1. 🗣 Commented on [#27](https://github.com/albertopoljak/Licensy/issues/27) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+2. ❗️ Opened issue [#28](https://github.com/albertopoljak/Licensy/issues/28) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+3. 🎉 Merged PR [#9](https://github.com/albertopoljak/orindance.party/pull/9) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+4. ❗️ Closed issue [#2](https://github.com/albertopoljak/CEtrainer-decrypter/issues/2) in [albertopoljak/CEtrainer-decrypter](https://github.com/albertopoljak/CEtrainer-decrypter)
+5. 🎉 Merged PR [#8](https://github.com/albertopoljak/orindance.party/pull/8) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
   <!--END_SECTION:activity-->
 </details>
 
