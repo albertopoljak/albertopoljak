@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/albertopoljak/Licensy/issues/25) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-2. ❗️ Closed issue [#27](https://github.com/albertopoljak/Licensy/issues/27) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-3. 🎉 Merged PR [#24](https://github.com/albertopoljak/Licensy/pull/24) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-4. 🎉 Merged PR [#29](https://github.com/albertopoljak/Licensy/pull/29) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-5. 💪 Opened PR [#29](https://github.com/albertopoljak/Licensy/pull/29) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+1. 🗣 Commented on [#30](https://github.com/albertopoljak/Licensy/issues/30) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+2. ❗️ Opened issue [#30](https://github.com/albertopoljak/Licensy/issues/30) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+3. 🗣 Commented on [#25](https://github.com/albertopoljak/Licensy/issues/25) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+4. ❗️ Closed issue [#27](https://github.com/albertopoljak/Licensy/issues/27) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+5. 🎉 Merged PR [#24](https://github.com/albertopoljak/Licensy/pull/24) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
   <!--END_SECTION:activity-->
 </details>
 
