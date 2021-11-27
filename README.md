@@ -5,7 +5,7 @@ Someone from somewhere that likes to code.
 - 🔭 I’m currently working on random programming stuff.
 - 🌱 I’m currently expanding my knowledge by doing the above.
 - 👯 I’m free to collaborate on anything really, as long as it's interesting and I can learn something.
-- My Discord account BrainDead#6105 is compromised, do not trust it
+- After a long wait from support I finally got my Discord account BrainDead#6105 back
 <hr>
 
 
