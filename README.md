@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/HuyaneMatsu/hata/issues/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-2. 💪 Opened PR [#64](https://github.com/HuyaneMatsu/hata/pull/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-3. 🗣 Commented on [#158](https://github.com/Tortoise-Community/Tortoise-BOT/issues/158) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
-4. 🗣 Commented on [#32](https://github.com/albertopoljak/Licensy/issues/32) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
-5. ❗️ Closed issue [#31](https://github.com/albertopoljak/Licensy/issues/31) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
+1. ❗️ Opened issue [#81889](https://github.com/odoo/odoo/issues/81889) in [odoo/odoo](https://github.com/odoo/odoo)
+2. 🗣 Commented on [#64](https://github.com/HuyaneMatsu/hata/issues/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+3. 💪 Opened PR [#64](https://github.com/HuyaneMatsu/hata/pull/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+4. 🗣 Commented on [#158](https://github.com/Tortoise-Community/Tortoise-BOT/issues/158) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+5. 🗣 Commented on [#32](https://github.com/albertopoljak/Licensy/issues/32) in [albertopoljak/Licensy](https://github.com/albertopoljak/Licensy)
   <!--END_SECTION:activity-->
 </details>
 
