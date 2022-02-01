@@ -44,11 +44,11 @@ Someone from somewhere that likes to code.
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273667%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273679%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 101 Contributions in the Year 2022
+> 🏆 103 Contributions in the Year 2022
  > 
 > 📦 148.9 kB Used in Github's Storage 
  > 
@@ -61,8 +61,8 @@ Someone from somewhere that likes to code.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    199 commits    ██████░░░░░░░░░░░░░░░░░░░   24.33% 
-🌆 Daytime    324 commits    ██████████░░░░░░░░░░░░░░░   39.61% 
+🌞 Morning    200 commits    ██████░░░░░░░░░░░░░░░░░░░   24.45% 
+🌆 Daytime    323 commits    █████████░░░░░░░░░░░░░░░░   39.49% 
 🌃 Evening    203 commits    ██████░░░░░░░░░░░░░░░░░░░   24.82% 
 🌙 Night      92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
 
@@ -70,8 +70,8 @@ Someone from somewhere that likes to code.
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      148 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
+Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Tuesday      146 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
 Wednesday    163 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
 Thursday     134 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
 Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
@@ -114,6 +114,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2022
+ Last Updated on 01/02/2022
 <!--END_SECTION:waka-->
 </details>
