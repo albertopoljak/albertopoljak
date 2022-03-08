@@ -22,11 +22,11 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/albertopoljak/orindance.party/issues/10) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-2. ❗️ Opened issue [#81889](https://github.com/odoo/odoo/issues/81889) in [odoo/odoo](https://github.com/odoo/odoo)
-3. 🗣 Commented on [#64](https://github.com/HuyaneMatsu/hata/issues/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-4. 💪 Opened PR [#64](https://github.com/HuyaneMatsu/hata/pull/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
-5. 🗣 Commented on [#158](https://github.com/Tortoise-Community/Tortoise-BOT/issues/158) in [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT)
+1. 🗣 Commented on [#2135](https://github.com/OCA/web/issues/2135) in [OCA/web](https://github.com/OCA/web)
+2. 🗣 Commented on [#10](https://github.com/albertopoljak/orindance.party/issues/10) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
+3. ❗️ Opened issue [#81889](https://github.com/odoo/odoo/issues/81889) in [odoo/odoo](https://github.com/odoo/odoo)
+4. 🗣 Commented on [#64](https://github.com/HuyaneMatsu/hata/issues/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+5. 💪 Opened PR [#64](https://github.com/HuyaneMatsu/hata/pull/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
   <!--END_SECTION:activity-->
 </details>
 
