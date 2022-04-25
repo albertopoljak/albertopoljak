@@ -22,10 +22,10 @@ Someone from somewhere that likes to code.
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33149](https://github.com/odoo/odoo/issues/33149) in [odoo/odoo](https://github.com/odoo/odoo)
-2. 🗣 Commented on [#2135](https://github.com/OCA/web/issues/2135) in [OCA/web](https://github.com/OCA/web)
-3. 🗣 Commented on [#10](https://github.com/albertopoljak/orindance.party/issues/10) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
-4. 🗣 Commented on [#64](https://github.com/HuyaneMatsu/hata/issues/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
+1. ❗️ Opened issue [#89560](https://github.com/odoo/odoo/issues/89560) in [odoo/odoo](https://github.com/odoo/odoo)
+2. 🗣 Commented on [#33149](https://github.com/odoo/odoo/issues/33149) in [odoo/odoo](https://github.com/odoo/odoo)
+3. 🗣 Commented on [#2135](https://github.com/OCA/web/issues/2135) in [OCA/web](https://github.com/OCA/web)
+4. 🗣 Commented on [#10](https://github.com/albertopoljak/orindance.party/issues/10) in [albertopoljak/orindance.party](https://github.com/albertopoljak/orindance.party)
 5. 💪 Opened PR [#64](https://github.com/HuyaneMatsu/hata/pull/64) in [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata)
   <!--END_SECTION:activity-->
 </details>
